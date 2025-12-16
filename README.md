@@ -33,7 +33,7 @@ This project analyzes customer support ticket data to identify high-volume issue
 - Prioritize performance-related issues with high reopen rates.
 
 ## Dashboard Preview
-![Dashboard Overview]([dashboard/screenshots/dashboard_overview.png])
+![Dashboard Overview]([data/dashboard/dashboard_overview.png])
 
 ## Data Disclaimer
 This project uses **synthetic support ticket data** modeled on real-world SaaS and tax software support environments. No proprietary, confidential, or employer data was used.
